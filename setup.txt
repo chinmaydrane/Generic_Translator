@@ -1,0 +1,14 @@
+
+========================================================================
+AZURE REPAIR / SETUP CHECK FINISHED
+========================================================================
+Resource group:   rg-tanishkalonkar-7649
+Translator:       tanishkatranslator2026 (F0 / Global)
+Foundry resource: translation-app-resource-tanishka2005
+Foundry project:  translation-app-tanishka2005
+App Service plan: asp-tanishka-email-translator-2026 (B1 / Linux)
+Web App:          tanishka-email-translator-2026
+Web App URL:      https://tanishka-email-translator-2026.azurewebsites.net
+Local .env:       C:\Users\tanis\Desktop\translator\Generic_Translator\generic_translator\.env
+
+Next: deploy the project using the VS Code Azure App Service extension.
